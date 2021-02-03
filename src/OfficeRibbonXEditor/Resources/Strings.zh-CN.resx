@@ -379,10 +379,10 @@
     <value>正则表达式错误</value>
   </data>
   <data name="FindReplace.Status.TotalFound" xml:space="preserve">
-    <value>计数:</value>
+    <value>计数</value>
   </data>
   <data name="FindReplace.Status.TotalReplaced" xml:space="preserve">
-    <value>全部替换:</value>
+    <value>全部替换</value>
   </data>
   <data name="FindReplace.Status.Wrap" xml:space="preserve">
     <value>循环查找</value>
@@ -687,7 +687,7 @@
     <value>加载附加XML模板:</value>
   </data>
   <data name="Settings.Misc.ExtraTemplates.ToolTip" xml:space="preserve">
-    <value>每行应只包含一个路径，指定路径可以是MXL文件全路径或者其所在目录，也可以是基于本软件安装目录的相对路径。</value>
+    <value>每行应只包含一个路径，指定路径可以是XML文件全路径或者其所在目录，也可以是基于本软件安装目录的相对路径。</value>
   </data>
   <data name="Settings.Misc.Language" xml:space="preserve">
     <value>语言</value>
